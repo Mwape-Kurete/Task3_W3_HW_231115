@@ -18,41 +18,47 @@ nav{
     height: 80px;
     width: 100%; 
     background-color: grey; 
+    padding-bottom: 30px;
 }
 
 .nav-link{
     width: 80%;
-    padding-right: 40%;
 }
 
 li{
     display: inline;
     text-align: center;
+    margin: 10px;
+    padding-bottom: 10px;
+}
+
+ul:nth-child(1){
+    padding-left: 50%;
 }
 
 a{ 
     text-decoration: none;
     color: black;
     background-color: white;
-    padding: 10px;
+    padding:15px;
     border-radius: 5px;
 }
 
 a:hover{
     color: white; 
-    background-color: darkslategrey;
+    background-color: rgb(74, 74, 74);
 }
 
 /*header section*/
 header{
-    height: 50vh; 
+    height: 60vh; 
     width: 100%; 
     background-color: lightgrey; 
 }
 
 .h-copy{
     margin-left: 15%;
-    padding-top: 10%;
+    padding-top: 11%;
 }
 
 /*Body section*/ 
@@ -94,7 +100,7 @@ section{
 
 .col-2{
     width: 48%;
-    height: 250px;
+    height: 350px;
     background-color: grey; 
     text-align: center;
     color: white; 
@@ -104,7 +110,7 @@ section{
 
 .col-3{ 
     width: 31.33%;
-    height: 250px;
+    height: 350px;
     background-color: grey; 
     text-align: center;
     color: white; 
@@ -114,7 +120,7 @@ section{
 
 .col-4{
     width: 23%;
-    height: 250px;
+    height: 350px;
     background-color: grey; 
     text-align: center;
     color: white; 
