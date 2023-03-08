@@ -100,7 +100,7 @@ section{
 
 .col-2{
     width: 48%;
-    height: 350px;
+    height: 300px;
     background-color: grey; 
     text-align: center;
     color: white; 
@@ -110,7 +110,7 @@ section{
 
 .col-3{ 
     width: 31.33%;
-    height: 350px;
+    height: 300px;
     background-color: grey; 
     text-align: center;
     color: white; 
@@ -120,7 +120,7 @@ section{
 
 .col-4{
     width: 23%;
-    height: 350px;
+    height: 300px;
     background-color: grey; 
     text-align: center;
     color: white; 
